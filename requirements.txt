@@ -1,0 +1,7 @@
+Django>=1.8,<1.9
+django-delegate>=0.3.0
+django-model-utils>=2.2
+future>=0.15.0
+iso8601>=0.1.11
+neo4jrestclient>=2
+six>=1.10.0
